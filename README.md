@@ -13,4 +13,4 @@ The materials referenced the work of many previous MATH 2850 TAs, including TA-Y
 
 Attached is a meme I think works well with this course:
 
-<img src="C:\Users\Nephr\AppData\Roaming\Typora\typora-user-images\image-20230704182248691.png" alt="image-20230704182248691" style="zoom: 25%;" />
+![285meme](285meme.png)
