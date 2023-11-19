@@ -1,5 +1,5 @@
 # MATH2850-TA-Material
-This is the TA Material for the course MATH2850 of Shanghai Jiao Tong University by Spark.
+This is the TA Material for the course MATH2850 (VV825) of Shanghai Jiao Tong University by Spark.
 
 The materials covers the latter part of this course, which mainly includes the content including multi-variable calculus. Some topics covered by the recitation classes are listed as follows:
 
